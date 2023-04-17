@@ -11,7 +11,7 @@
 #### 📍[Spring-Securiy](https://github.com/JeongyunH/Spring-Security) : WebSecurity Filter, Authentication, Authorization, Token, ajax/OAuth2
 #### 📍[Spring-Basic](https://github.com/JeongyunH/Spring-Basic) : JPA, Jbdc, JUnit5, lombok, etc...
 #### 📍[Spring-SchoolPage-Study](https://github.com/JeongyunH/Spring-SchoolPage-Study) : Using Security webFilter
-#### 📍[spring-batch-example](https://github.com/JeongyunH/spring-batch-example) : Spring Batch
+#### 📍[spring-batch-example](https://github.com/JeongyunH/spring-batch-example) : Job > Step > Junk, Tasklet > Reader, Processor, Writer
 #### 📍[algorithm-solving](https://github.com/JeongyunH/algorithm-solving) : Algorithm study with JAVA
 
 <!---
