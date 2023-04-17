@@ -7,18 +7,12 @@
 
 ------------------
 ## Repository Preivew
-#### - Spring-Cloud-Study
-: API G/W, eureka, RabbitMQ, Kafka, FeignClient, GCP, Cloud Config, Spring Boot Admin, Sleuth&Zipkin, etc..
-#### - Spring-Securiy
-: WebSecurity Filter, Authentication, Authorization, Token, ajax/OAuth2
-#### - Spring-Basic
-: JPA, Jbdc, JUnit5, lombok, etc...
-#### - Spring-SchoolPage-Study
-: Using Security webFilter
-#### - spring-batch-example
-: Spring Batch
-#### - algorithm-solving
-: Algorithm study with JAVA
+#### 📍Spring-Cloud-Study (API G/W, eureka, RabbitMQ, Kafka, FeignClient, GCP, Cloud Config, Spring Boot Admin, Sleuth&Zipkin, etc..)
+#### 📍Spring-Securiy (WebSecurity Filter, Authentication, Authorization, Token, ajax/OAuth2)
+#### 📍Spring-Basic (JPA, Jbdc, JUnit5, lombok, etc...)
+#### 📍Spring-SchoolPage-Study (Using Security webFilter)
+#### 📍spring-batch-example (Spring Batch)
+#### 📍algorithm-solving (Algorithm study with JAVA)
 
 <!---
 JeongyunH/JeongyunH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
